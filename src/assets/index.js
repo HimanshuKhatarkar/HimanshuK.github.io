@@ -6,6 +6,10 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import googlemeet from "./googlemeet.jpg";
+import selfieextractor from "./selfieextractor.jpg";
+import hftbot from "./hftbot.jpg";
+
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -20,7 +24,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import java from "./tech/java.png";
+import aws from "./tech/aws.png";
+import spring from "./tech/spring.png";
 
+import amazon from "./company/amazon.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -59,4 +67,11 @@ export {
   carrent,
   jobit,
   tripguide,
+  java,
+  spring,
+  aws,
+  amazon,
+  selfieextractor,
+  hftbot,
+  googlemeet,
 };
