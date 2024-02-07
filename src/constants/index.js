@@ -252,7 +252,7 @@ import {
           color: "orange-text-gradient",
         },
         {
-          name: "server.io",
+          name: "socket.io",
           color: "green-text-gradient",
         },
       ],
