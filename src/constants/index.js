@@ -190,7 +190,7 @@ import {
       testimonial:
         "I have had the pleasure of witnessing Himanshu's dedication and expertise firsthand. Their innovative approach to problem-solving and commitment to achieving excellence have consistently impressed me.",
       name: "Rohit Kumar Gupta",
-      designation: "SDE II",
+      designation: "SDE",
       company: "Amazon",
       image: "https://drive.google.com/file/d/1DUzzhiyeLxDs4dIpWvwSwvhyqKo1Isnj/view?usp=sharing",
     },
@@ -280,10 +280,10 @@ import {
           name: "Boot-Strap",
           color: "orange-text-gradient",
         },
-        {
-          name: "JavaScript",
-          color: "green-text-gradient",
-        },
+        // {
+        //   name: "JavaScript",
+        //   color: "green-text-gradient",
+        // },
       ],
       image: hftbot,
       source_code_link: "https://github.com/HimanshuKhatarkar/HFTBot",
