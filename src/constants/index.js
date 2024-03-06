@@ -127,7 +127,7 @@ import {
       company_name: "Amazon",
       icon: amazon,
       iconBg: "#383E56",
-      date: "Sept 2022 - March 2023",
+      date: "Sept 2022 - Nov 2023",
       points: [
           "Led the development of highly scalable, highly available services, reducing system downtime by 40% and increasing customer satisfaction by 25%.",
           "Utilized Java, AWS, TypeScript, HTML, CSS, Python, React.Js, Kubernetes, Docker, MongoDB, and Spring Boot to automate tax filing systems, benefiting 14 million European taxpayers.",
