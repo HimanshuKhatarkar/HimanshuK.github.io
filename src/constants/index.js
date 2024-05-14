@@ -127,54 +127,16 @@ import {
       company_name: "Amazon",
       icon: amazon,
       iconBg: "#383E56",
-      date: "Sept 2022 - Nov 2023",
+      date: "Sept 2022 - May 2024",
       points: [
           "Led the development of highly scalable, highly available services, reducing system downtime by 40% and increasing customer satisfaction by 25%.",
-          "Utilized Java, AWS, TypeScript, HTML, CSS, Python, React.Js, Kubernetes, Docker, MongoDB, and Spring Boot to automate tax filing systems, benefiting 14 million European taxpayers.",
+          "Utilized Java, AWS, TypeScript, Docker, MongoDB, and Spring Boot to automate tax filing systems, benefiting 254 k European taxpayers.",
           "Designed low-level architectures for over five microservices following the ACBDA Design pattern, resulting in a 50% enhancement in code readability.",
           "Implemented Test-Driven Development (TDD) achieving 100% line coverage ensuring robust functionality and reliability of services through rigorous component testing.",
           "Tools: Java, Spring Boot, AWS, MongoDB, DynamoDB, Python, Typescript.",
       ],
     },
-    // {
-    //   title: "React Native Developer",
-    //   company_name: "Tesla",
-    //   icon: tesla,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2021 - Feb 2022",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Web Developer",
-    //   company_name: "Shopify",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+
   ];
   
   const testimonials = [
